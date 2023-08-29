@@ -1,0 +1,3 @@
+----> For using pretrained model use hubconf.py file.
+----> Replace 'C:\Users\ADMIN\Desktop\Pytorch\Pytorch-UNet-master\model.pth' in hubconf.py with the desired path where you want to save the model as a .pth file.
+----> Run the predict.py as  python predict.py --model (provide complete path)model.pth --input (provide complete path)input.jpg --viz
